@@ -10,10 +10,7 @@ This repository is developed alongside my **Master’s studies in Mathematical S
 
 
 **Exaucé Kambale Maruba**  
-Master’s Student | Regular Program in Mathematical Sciences for AI
-AIMS Senegal | African Institute for Mathematical Sciences  
-
-Email: [kambale.m.exauce@aims-senegal.org](mailto:kambale.m.exauce@aims-senegal.org)
+[kambale.m.exauce@aims-senegal.org](mailto:kambale.m.exauce@aims-senegal.org)
 
 ---
 
